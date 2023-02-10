@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <copy file="manhattan.net.xml" />
+    <copy file="manhattan.rou.xml" />
+    <copy file="manhattan.sumo.cfg" type="config" />
+</launch>
+
